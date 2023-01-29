@@ -1,0 +1,15 @@
+.homeContainer{
+    display: flex;
+    width: 100%;
+}
+
+.opensidebar{
+    font-size: 25px;
+    position: absolute;
+    top: 2vh;
+    left: .3vw;
+    z-index: 999;
+    color: white;
+    cursor: pointer;
+    /* width: 10%; */
+}
